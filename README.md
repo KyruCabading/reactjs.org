@@ -20,7 +20,7 @@ This repo contains the source code and documentation powering [reactjs.org](http
 ### Running locally
 
 1. `yarn dev` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
-1. `open http://localhost:8000` to open the site in your favorite browser
+1. `open http://localhost:8080` to open the site in your favorite browser
 
 ## Contributing
 
